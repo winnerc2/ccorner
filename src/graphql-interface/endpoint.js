@@ -1,0 +1,1 @@
+module.exports.graphqlEndpoint="https://joyful-activity.us-west-2.aws.cloud.dgraph.io/graphql"
